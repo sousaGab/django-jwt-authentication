@@ -15,7 +15,7 @@ This repository contains a Django project implementing JWT (JSON Web Token) auth
 ## Requirements
 
 - Python 3.x
-- Django 3.x
+- Django 4.x
 - Django Rest Framework 3.x
 
 ## Installation
@@ -23,10 +23,9 @@ This repository contains a Django project implementing JWT (JSON Web Token) auth
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone git@github.com:sousaGab/django-jwt-authentication.git
+cd django-jwt-authentication
 ```
-
 
 2. Create and activate a virtual environment:
 
